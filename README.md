@@ -1,6 +1,9 @@
 # OzBreach
 An overview of Australian organisations that have fallen victim to cyberattacks resulting in security breaches.
 
+![image](https://github.com/user-attachments/assets/241cf178-49aa-44cb-984b-8c05bedc941b)
+
+
 # Breach Timeline
 
 | Date     | Attack Type                       | Organisation(s) Affected                                                               | Source                                                                                                                                                              |                                                                                                                                                                          |
